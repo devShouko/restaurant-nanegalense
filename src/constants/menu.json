@@ -1,0 +1,56 @@
+{
+    "menu": {
+        "Primero": [
+            {
+                "nombre": "Caldo de pata",
+                "descripcion": "Deliciosa sopa elaborada mediante la cocción lenta y prolongada de pierna de res, cuidadosamente guisada a baja temperatura para resaltar su ternura y sabor, acompañada de una selección de vegetales frescos y maíz mote cocido, que realzan su carácter tradicional y reconfortante."
+            },
+            {
+                "nombre": "Encebollado",
+                "descripcion": "Delicioso caldo tradicional ecuatoriano, preparado con suculento bonito, yuca suave, cebolla roja y tomate fresco. Perfectamente acompañado con palomitas, maíz tostado o crujientes chifles."
+            }
+        ],
+        "Segundo": [
+            {
+                "nombre": "Chaulafán",
+                "descripcion": "Delicioso arroz estilo oriental, salteado al wok con salsa de soja ecuatoriana, combinado con camarones frescos, cerdo, pollo y ternera. Todo esto sobre una base de verduras frescas y huevo, perfectamente acompañado con crujientes plátanos maduros fritos."
+            },
+            {
+                "nombre": "Corvina",
+                "descripcion": "Descubre el auténtico sabor del Ecuador con nuestra exquisita Corvina. Una delicada pieza de pescado fresco del Pacífico, cuidadosamente sazonada con especias tradicionales y cocinada a la perfección."
+            },
+            {
+                "nombre": "Menestra con Chuleta",
+                "descripcion": "Nuestra menestra, preparada con lentejas o fréjoles guisados con ajo, cebolla, pimientos y especias, se sirve con chuleta de cerdo asada, arroz blanco esponjoso y plátano maduro frito."
+            },
+            {
+                "nombre": "Seco de Carne",
+                "descripcion": "Seco de carne tradicional preparado con carne jugosa cocinada en una mezcla de cebolla, ajo, tomate, pimientos y un toque de cerveza o chicha, acompañado de arroz blanco y maduros fritos."
+            }
+        ],
+        "Postre": [
+            {
+                "nombre": "Gelatina",
+                "descripcion": "Postre delicioso de sabores"
+            },
+            {
+                "nombre": "Flan",
+                "descripcion": "Postre delicioso con textura blanda y caramelo"
+            },
+            {
+                "nombre": "Helado",
+                "descripcion": "Postre delicioso de sabores chocolate, vainilla y fresa"
+            }
+        ],
+        "Bebidas": [
+            {
+                "nombre": "Gaseosas",
+                "descripcion": "Bebida gaseosa"
+            },
+            {
+                "nombre": "Jugo del día",
+                "descripcion": "Jugo delicioso de sabores"
+            }
+        ]
+    }
+}
